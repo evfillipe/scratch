@@ -14,3 +14,4 @@ Filipe Freitas
 - [ConversorVelocidade](https://scratch.mit.edu/projects/884943648/)
 - [ConversorDePeso](https://scratch.mit.edu/projects/884949897/)
 - [PDV](https://scratch.mit.edu/projects/884955036/)
+- [Ganhos horas trabalhadas](https://scratch.mit.edu/projects/884965585/)
