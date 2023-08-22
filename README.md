@@ -12,4 +12,4 @@ Filipe Freitas
 - [ConversorTemperatura](https://scratch.mit.edu/projects/884914377/)
 - [RegraDe3](https://scratch.mit.edu/projects/884935141/)
 - [ConversorVelocidade](https://scratch.mit.edu/projects/884943648/)
-- [ConversorDePeso] (https://scratch.mit.edu/projects/884949897/)
+- [ConversorDePeso](https://scratch.mit.edu/projects/884949897/)
