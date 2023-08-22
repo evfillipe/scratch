@@ -13,3 +13,4 @@ Filipe Freitas
 - [RegraDe3](https://scratch.mit.edu/projects/884935141/)
 - [ConversorVelocidade](https://scratch.mit.edu/projects/884943648/)
 - [ConversorDePeso](https://scratch.mit.edu/projects/884949897/)
+- [PDV](https://scratch.mit.edu/projects/884955036/)
