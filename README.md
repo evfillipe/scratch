@@ -10,3 +10,4 @@ Filipe Freitas
 - [Custo x Vendas](https://scratch.mit.edu/projects/884639075/)
 - [Boletim](https://scratch.mit.edu/projects/884687959/)
 - [ConversorTemperatura](https://scratch.mit.edu/projects/884914377/)
+- [RegraDe3](https://scratch.mit.edu/projects/884935141/)
