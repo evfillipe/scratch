@@ -6,3 +6,5 @@
 Introdução a lógica de programação com Scratch
 ## Autor
 Filipe Freitas
+## Projetos
+[Custo x Vendas](https://scratch.mit.edu/projects/884639075/)
